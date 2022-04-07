@@ -1,0 +1,28 @@
+{
+  "catalystStack": {
+    "registryName": {
+      "domain": "botania",
+      "path": "conjurationcatalyst"
+    },
+    "meta": 0
+  },
+  "components": [
+    {
+      "weight": 140,
+      "oreName": "orePlatinum"
+    },
+    {
+      "weight": 140,
+      "oreName": "oreOsmium"
+    },
+    {
+      "weight": 520,
+      "oreName": "oreIridium"
+    }
+  ],
+  "explosionStrength": 10.0,
+  "radius": 4,
+  "maxWeight": 800,
+  "version": 4,
+  "cost": 5000000
+}

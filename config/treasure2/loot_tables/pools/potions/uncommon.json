@@ -1,0 +1,71 @@
+{
+	"version": "1.0",
+	"pools": [
+		{
+			"name": "uncommon_potions",
+			"rolls": 1,
+			"entries": [
+				{
+					"entryName": "potion_uc1",
+					"type": "item",
+					"name": "botania:brewvial",
+					"weight": 10,
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{brewKey:\"speed\"}"
+						}
+					]
+				},
+				{
+					"entryName": "potion_uc2",
+					"type": "item",
+					"name": "botania:brewvial",
+					"weight": 10,
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{brewKey:\"strength\"}"
+						}
+					]
+				},
+				{
+					"entryName": "potion_uc3",
+					"type": "item",
+					"name": "botania:brewvial",
+					"weight": 10,
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{brewKey:\"haste\"}"
+						}
+					]
+				},
+				{
+					"entryName": "potion_uc4",
+					"type": "item",
+					"name": "botania:brewvial",
+					"weight": 10,
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{brewKey:\"absorption\"}"
+						}
+					]
+				},
+				{
+					"entryName": "potion_uc5",
+					"type": "item",
+					"name": "botania:brewvial",
+					"weight": 10,
+					"functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{brewKey:\"bloodthirst\"}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

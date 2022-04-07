@@ -1,0 +1,81 @@
+{
+  "name": "cm3ct:plate_engineering",
+
+  "disabled": false,
+
+  "target-item": "contenttweaker:plate_engineering",
+  "target-count": 2,
+
+  "duration": 100,
+  "symmetrical": true,
+
+  "catalyst": "immersiveengineering:material",
+  "catalyst-meta": 26,
+  
+  "input-types": {
+    "a": {
+      "id": "immersiveengineering:metal_decoration1",
+      "meta": 1
+    },
+    "b": {
+      "id": "immersiveengineering:metal_decoration0",
+      "meta": 6
+    },
+    "c": {
+      "id": "immersiveengineering:metal_decoration0",
+      "meta": 5
+    },
+    "d": {
+      "id": "immersiveengineering:metal_decoration0",
+      "meta": 7
+    },
+    "e": {
+      "id": "immersiveengineering:metal_decoration0",
+      "meta": 4
+    },
+    "f": {
+      "id": "immersiveengineering:metal_decoration0",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      [
+        "a",
+        "a",
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "d",
+        "c",
+        "b",
+        "a"
+      ],
+      [
+        "a",
+        "e",
+        "f",
+        "e",
+        "a"
+      ],
+      [
+        "a",
+        "b",
+        "c",
+        "d",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a",
+        "a",
+        "a"
+      ]
+    ]
+  ]
+
+}

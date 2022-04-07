@@ -1,0 +1,29 @@
+{
+	"version": "1.0",
+	"pools": [
+		{
+			"name": "common_tools",
+			"rolls": 1,
+			"entries": [
+				{
+					"entryName": "golden_sword",
+					"type": "item",
+					"name": "minecraft:golden_sword",
+					"weight": 15
+				},
+				{
+					"entryName": "golden_pickaxe",
+					"type": "item",
+					"name": "minecraft:golden_pickaxe",
+					"weight": 15
+				},
+				{
+					"entryName": "golden_axe",
+					"type": "item",
+					"name": "minecraft:golden_axe",
+					"weight": 15
+				}
+			]
+		}
+	]
+}

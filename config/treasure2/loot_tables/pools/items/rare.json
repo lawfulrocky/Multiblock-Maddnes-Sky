@@ -1,0 +1,287 @@
+{
+	"version": "1.0",
+	"pools": [
+		{
+			"name": "rare_items",
+			"rolls": 1,
+			"entries": [
+				{
+					"entryName": "tnt",
+					"type": "item",
+					"name": "minecraft:tnt",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 2,
+								"max": 4
+							}
+						}
+					]						
+				},
+				{
+					"entryName": "blaze_powder",
+					"type": "item",
+					"name": "minecraft:blaze_powder",
+					"weight": 25,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 2,
+								"max": 5
+							}
+						}
+					]						
+				},
+				{
+					"entryName": "magma_cream",
+					"type": "item",
+					"name": "minecraft:magma_cream",
+					"weight": 25,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 2,
+								"max": 5
+							}
+						}
+					]						
+				},		
+				{
+					"entryName": "dun_crystal",
+					"type": "item",
+					"name": "contenttweaker:dun_crystal",
+					"weight": 25					
+				},
+				{
+					"entryName": "tier1_rune",
+					"type": "item",
+					"name": "botania:rune",
+					"weight": 15	
+				},	
+				{
+					"entryName": "tier1_rune2",
+					"type": "item",
+					"name": "botania:rune",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "set_data",
+								"data": 1
+						}
+					]	
+				},	
+				{
+					"entryName": "tier1_rune3",
+					"type": "item",
+					"name": "botania:rune",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "set_data",
+								"data": 2
+						}
+					]	
+				},	
+				{
+					"entryName": "tier1_rune4",
+					"type": "item",
+					"name": "botania:rune",
+					"weight": 15,
+					"functions": [
+						{
+							"function": "set_data",
+								"data": 3
+						}
+					]	
+				},			
+				{
+					"entryName": "diamond_block",
+					"type": "item",
+					"name": "minecraft:diamond_block",
+					"weight": 10					
+				},				
+				{
+					"entryName": "glowstone",
+					"type": "item",
+					"name": "minecraft:glowstone",
+					"weight": 25,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 5,
+								"max": 15
+							}
+						}
+					]						
+				},
+				{
+					"entryName": "ender_pearl",
+					"type": "item",
+					"name": "minecraft:ender_pearl",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 2,
+								"max": 5
+							}
+						}
+					]							
+				},
+				{
+					"entryName": "ender_eye",
+					"type": "item",
+					"name": "minecraft:ender_eye",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 2,
+								"max": 5
+							}
+						}
+					]							
+				},			
+				{
+					"entryName": "blaze_rod",
+					"type": "item",
+					"name": "minecraft:blaze_rod",
+					"weight": 25,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 2,
+								"max": 5
+							}
+						}
+					]							
+				},
+				{
+					"entryName": "ghast_tear",
+					"type": "item",
+					"name": "minecraft:ghast_tear",
+					"weight": 25,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 4
+							}
+						}
+					]							
+				},
+				{
+					"entryName": "experience_bottle",
+					"type": "item",
+					"name": "minecraft:experience_bottle",
+					"weight": 50,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 8
+							}
+						}
+					]							
+				},
+				{
+					"entryName": "diamond",
+					"type": "item",
+					"name": "minecraft:diamond",
+					"weight": 25,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 3,
+								"max": 8
+							}
+						}
+					]							
+				},
+				{
+					"entryName": "prismarine_crystals",
+					"type": "item",
+					"name": "minecraft:prismarine_crystals",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 2,
+								"max": 6
+							}
+						}
+					]							
+				},		
+				{
+					"entryName": "prismarine_shard",
+					"type": "item",
+					"name": "minecraft:prismarine_shard",
+					"weight": 20,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 2,
+								"max": 6
+							}
+						}
+					]							
+				},									
+				{
+					"entryName": "sea_lantern",
+					"type": "item",
+					"name": "minecraft:sea_lantern",
+					"weight": 20
+				},
+				{
+					"entryName": "nether_star",
+					"type": "item",
+					"name": "minecraft:nether_star",
+					"weight": 15
+				},
+				{
+					"entryName": "firework_charge",
+					"type": "item",
+					"name": "minecraft:firework_charge",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 5
+							}
+						}
+					]							
+				},
+				{
+					"entryName": "pristine_dust",
+					"type": "item",
+					"name": "contenttweaker:pristine_dust",
+					"weight": 35,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 5
+							}
+						}
+					]							
+				}
+			]
+		}
+	]
+}

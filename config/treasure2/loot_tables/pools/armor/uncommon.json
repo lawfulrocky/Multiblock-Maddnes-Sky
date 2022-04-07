@@ -1,0 +1,103 @@
+{
+	"version": "1.0",
+	"pools": [
+		{
+			"name": "uncommon_armor",
+			"rolls": 1,
+			"entries": [
+				{
+					"entryName": "item_boots_crystal_white",
+					"type": "item",
+					"name": "actuallyadditions:item_boots_crystal_white",
+					"weight": 12.5		
+				},
+				{
+					"entryName": "item_helm_crystal_white",
+					"type": "item",
+					"name": "actuallyadditions:item_helm_crystal_white",
+					"weight": 20		
+				},
+				{
+					"entryName": "item_chest_crystal_white",
+					"type": "item",
+					"name": "actuallyadditions:item_chest_crystal_white",
+					"weight": 20		
+				},
+				{
+					"entryName": "item_pants_crystal_white",
+					"type": "item",
+					"name": "actuallyadditions:item_pants_crystal_white",
+					"weight": 20		
+				},
+				{
+					"entryName": "wizard_hat",
+					"type": "item",
+					"name": "ebwizardry:wizard_hat",
+					"weight": 20		
+				},
+				{
+					"entryName": "wizard_robe",
+					"type": "item",
+					"name": "ebwizardry:wizard_robe",
+					"weight": 20		
+				},
+				{
+					"entryName": "wizard_leggings",
+					"type": "item",
+					"name": "ebwizardry:wizard_leggings",
+					"weight": 20		
+				},
+				{
+					"entryName": "wizard_boots",
+					"type": "item",
+					"name": "ebwizardry:wizard_boots",
+					"weight": 20		
+				},
+				{
+					"entryName": "golden_chestplate",
+					"type": "item",
+					"name": "minecraft:golden_chestplate",
+					"weight": 10,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]
+				},
+				{
+					"entryName": "golden_leggings",
+					"type": "item",
+					"name": "minecraft:golden_leggings",
+					"weight": 10,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]						
+				},
+				{
+					"entryName": "golden_helmet",
+					"type": "item",
+					"name": "minecraft:golden_helmet",
+					"weight": 10,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]		
+				},
+				{
+					"entryName": "golden_boots",
+					"type": "item",
+					"name": "minecraft:golden_boots",
+					"weight": 10,
+					"functions": [
+						{
+							"function": "enchant_randomly"
+						}
+					]	
+				}	
+			]
+		}
+	]
+}

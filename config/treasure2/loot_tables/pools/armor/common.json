@@ -1,0 +1,35 @@
+{
+	"version": "1.0",
+	"pools": [
+		{
+			"name": "common_armor",
+			"rolls": 1,
+			"entries": [
+				{
+					"entryName": "golden_chestplate",
+					"type": "item",
+					"name": "actuallyadditions:item_helm_crystal_black",
+					"weight": 10		
+				},
+				{
+					"entryName": "golden_leggings",
+					"type": "item",
+					"name": "actuallyadditions:item_chest_crystal_black",
+					"weight": 10		
+				},
+				{
+					"entryName": "golden_helmet",
+					"type": "item",
+					"name": "actuallyadditions:item_pants_crystal_black",
+					"weight": 10		
+				},
+				{
+					"entryName": "golden_boots",
+					"type": "item",
+					"name": "actuallyadditions:item_boots_crystal_black",
+					"weight": 10		
+				}	
+			]
+		}
+	]
+}
